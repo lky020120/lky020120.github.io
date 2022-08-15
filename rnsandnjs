@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title> 군무원 채용관리체계 모집 페이지</title>
+        <meta content="width=device-width, initial-scale=1" name="viewport" charset=EUC-KR"  />
+
+        <link rel="stylesheet" href="./intro.css" media="all"/>
+    </head>
+    <body>
+        <div id="container">
+            <img id="logo" src="./logo.gif" />
+            <div class = "banner">
+                <div id = "title">2022년 육군 일반군무원 (공채 및 경채) 필기시험 합격자 발표</div>
+    
+            <br>
+            <!-- a href="공지사항" -->
+            □ 2022년 육군 일반군무원 필기시험 발표 안내: <b>홈페이지 > 공지사항 </b><!-- /a -->
+             <br>
+            &nbsp;&nbsp;&nbsp;* 필기시험 합격자 조회는 <b>8.19(금) 16시</b>부터 가능합니다.
+            <br>
+            &nbsp;&nbsp;&nbsp;* 개인별 필기시험 성적 조회는 <b>8.20(토) 09시</b>부터 가능합니다.
+            </div>
+            
+            <div id="menuRouter">
+                <a href="result.hwp"> <div id="menu_left" class="menu"> </div> </a>
+                <a href="/official/content_start.jsp"> <div id="menu_right" class="menu">  <br>  육군 군무원 채용 <br> 홈페이지   <br> 바로가기</div></a>
+            </div>
+        </div>
+        <footer>
+            상호명: 육군본부 대표자: 육군참모총장 FAX: 042)551-5518 Tel:042)550-7149
+            <br>
+            주소: 충남 계룡시 신도안면 사서함 501-70호 Copyright(c) 2011 육군본부 All Rights Reserved.
+        </footer>
+    </body>
+</html>
